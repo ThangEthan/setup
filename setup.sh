@@ -1,3 +1,3 @@
 sudo apt-get update;
-sudo apt-get install -y zsh git cargo nodejs pip
+sudo apt-get install -y zsh git cargo nodejs pip curl
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
